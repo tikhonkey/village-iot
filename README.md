@@ -1,2 +1,0 @@
-# village-iot
-Begin app
