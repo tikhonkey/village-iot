@@ -1,5 +1,3 @@
-<img src="https://static.begin.app/node-create-react-app/readme-banner.png" width="966">
-
 [Create React App](https://create-react-app.dev/)'s starter app, extended by [Begin](https://begin.com)-based API endpoints.
 
 ## Deploy your own
